@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\bin\Debug\net8.0\GestorHotel.exe
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\bin\Debug\net8.0\GestorHotel.deps.json
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\bin\Debug\net8.0\GestorHotel.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\bin\Debug\net8.0\GestorHotel.dll
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\bin\Debug\net8.0\GestorHotel.pdb
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.dll
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\refint\GestorHotel.dll
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.pdb
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\GestorHotel.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\Projeto C#\GestorHotel\obj\Debug\net8.0\ref\GestorHotel.dll
